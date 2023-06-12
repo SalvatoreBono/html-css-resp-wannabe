@@ -169,4 +169,8 @@ img {
     .why-us .col-right {
         width: 100%;
     }
+    .why-us li{
+        margin: 0;
+        padding-bottom: 1rem;
+    }
 }
